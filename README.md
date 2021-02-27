@@ -1,4 +1,4 @@
-# YouRe 
+# ClRe 
 - This code was developed by: 
     - Author: Dr. Mina Younan
     - Affiliation: Lecturer of Computer Science, Faculty of Computers and Information, Minia University
